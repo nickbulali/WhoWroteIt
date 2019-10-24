@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bulali Nick\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Bulali Nick\Desktop\android-fundamentals-master\WhoWroteIt\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_108facf513f3f94e168cb8a5e68f1b6ecf020908.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bulali Nick\Desktop\android-fundamentals-master\WhoWroteIt\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Bulali Nick\Desktop\android-fundamentals-master\WhoWroteIt\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_fb645004ddc6ffa279cec19dc030a9cca115010f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bulali Nick\Desktop\android-fundamentals-master\WhoWroteIt\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Bulali Nick\Desktop\android-fundamentals-master\WhoWroteIt\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_af4191f8d637857a32f8272368b58bed59198b7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bulali Nick\Desktop\android-fundamentals-master\WhoWroteIt\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Bulali Nick\Desktop\android-fundamentals-master\WhoWroteIt\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_8a93998fd7b1e290844a9b1df010d999bc843c41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bulali Nick\Desktop\android-fundamentals-master\WhoWroteIt\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Bulali Nick\Desktop\android-fundamentals-master\WhoWroteIt\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_41c28f612f7a0cc4a728c62c9058c70b5661cc5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bulali Nick\Desktop\android-fundamentals-master\WhoWroteIt\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Bulali Nick\Desktop\android-fundamentals-master\WhoWroteIt\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_7c6cdcc41f4fe7ec7d95b8ac615914d000a7eafc.jar" />
+    </item>
+
+</items>
